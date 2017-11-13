@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020562174642",
+    "firebase_url": "https://abrahamchat-185213.firebaseio.com",
+    "project_id": "abrahamchat-185213",
+    "storage_bucket": "abrahamchat-185213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020562174642:android:f4ad10ad9fe030b6",
+        "android_client_info": {
+          "package_name": "com.abrahamstore.abrahamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020562174642-c36151f687rni259v4fadgljni43psib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abrahamstore.abrahamchat",
+            "certificate_hash": "4c0e692cd0f410838cbf74d5e17b67e43192db6d"
+          }
+        },
+        {
+          "client_id": "1020562174642-4p14cf7n7dlso09m4ek6qn1p4o2nlcbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QvJPpLsDLC2nwJY9poDnQkQIyriKw4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020562174642-4p14cf7n7dlso09m4ek6qn1p4o2nlcbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
